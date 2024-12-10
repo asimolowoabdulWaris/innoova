@@ -378,7 +378,7 @@ h4{
    
 }
 .big-pics .big-img img{
-   width: 140%;
+   max-height: 80vh;
 }
 .big-pics .small-img-container .small-img img{
    width: 60%;
