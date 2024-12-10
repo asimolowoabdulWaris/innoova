@@ -10,7 +10,7 @@ body{
 
  }
  .header{
-     background-image:linear-gradient(rgba(103, 102, 102, 0.267),rgba(103, 102, 102, 0.267)),url(img/hero_2\ \(1\).jpg) ;
+     background-image:linear-gradient(rgba(103, 102, 102, 0.267),rgba(103, 102, 102, 0.267)),url(hero_2\ \(1\).jpg) ;
      height: 100vh;
      background-size: cover;
      background-position: center;
